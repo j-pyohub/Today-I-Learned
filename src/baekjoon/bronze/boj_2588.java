@@ -8,7 +8,6 @@ public class boj_2588 {
         Scanner scanner = new Scanner(System.in);
         int num1 = scanner.nextInt();
         int num2 = scanner.nextInt();
-
         int answer1 = num1 * (num2 % 10);
         int answer2 = num1 * (num2 % 100 - num2 % 10)/10;
         int answer3 = num1 * (num2 - num2 % 100)/100;
