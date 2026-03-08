@@ -14,36 +14,18 @@
 
 
 ### 🧩 알고리즘 문제
-
+[📁자료구조](./src/java-data-structure)
 <details>
 <summary>📂 백준 (/baekjoon)</summary>
 
 - [🥉 Bronze](./src/baekjoon/bronze)
-  - [10807번 - 개수 세기]
-  - [10871번 - X보다 작은 수]
-  - [2562번 - 최대값]
-  - [10818번 - 최대/최소]
-  - [2884번 - 알람 시계]
-  - [3003번 - 킹, 퀸, 룩, 비숍, 나이트, 폰]
-  - [9086번 - 문자열]
-  - [2480번 - 주사위 세 개]
-  - [2720번 - 세탁소 사장 동혁]
-  - [25314번 - 코딩은 체육과목입니다]
-  - [27866번 - 문자와 문자열]
-  - [2490번 - 윷놀이]
-  - [1271번 - 엄청난 부자2]
-- 🥈 Silver
+- [🥈 Silver](./src/baekjoon/silver)
 - 🥇 Gold
 
 </details>
 
-<details>
-<summary>📂 프로그래머스 (/programmers)</summary>
+[📂 프로그래머스](./src/programmers)
 
-- Lv.1
-- Lv.2
-
-</details>
 
 ### 📘 Java 공부
 
